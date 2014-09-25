@@ -1,8 +1,12 @@
 <html>
 <body>
+
 <h3> Cats aren't cooler than dogs, but they're ok.
 </h3>
-<p>Meow Meow Meow Meow. Kristens brain is whiskey.
+
+<p>Meow Meow Meow Meow. Kristen's brain is whiskey.
+<img src="http://placekitten.com/300/300" alt="David's favorite cat" style="width:304px;height:228px">
+
 </p>
 
 </body>
@@ -10,3 +14,6 @@
 
 
 </html>
+
+
+
